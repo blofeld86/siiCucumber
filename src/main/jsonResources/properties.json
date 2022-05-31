@@ -1,0 +1,14 @@
+{
+  "active" : true,
+  "baseUrl" : "https://app.asana.com/api/1.0/",
+  "workspaceIdName" : "workspaceID",
+  "workspaceID" : "1202339382662994",
+  "postPath" : "workspaces/{workspaceID}/projects",
+  "putGetDeletePath" : "projects/",
+  "token" : "1/1202337006868173:8953c04c2e24adaccf36ee7bb2dc3aa4",
+  "jsonExOne" : "/src/main/jsonResources/example.json",
+  "jsonExTwo" : "/src/main/jsonResources/example2.json",
+  "gidJsonPath" : "data.gid",
+  "nameJsonPath" : "data.name",
+  "actualName" : "Bruce Wayne"
+}

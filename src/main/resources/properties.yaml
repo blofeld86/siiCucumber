@@ -1,0 +1,19 @@
+environments:
+  env_int:
+    active: true
+    baseUrl: "https://app.asana.com/api/1.0/"
+    workspaceID: "1202339382662994"
+    postPath: "workspaces/{workspaceID}/projects"
+    putGetDeletePath: "projects/"
+    token: "1/1202337006868173:8953c04c2e24adaccf36ee7bb2dc3aa4"
+    jsonExOne: "/src/main/resources/example.json"
+    jsonExTwo: "/src/main/resources/example2.json"
+    gidJsonPath: "data.gid"
+    nameJsonPath: "data.name"
+    actualName: "Bruce Wayne"
+
+  env_test:
+    active: false
+    baseUrl: "https://app.asana.com/"
+    basePath: "api/1.0/projects"
+    token: "1/1202337006868173:8953c04c2e24adaccf36ee7bb2dc3aa4"

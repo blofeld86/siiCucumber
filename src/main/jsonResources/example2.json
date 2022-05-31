@@ -1,0 +1,25 @@
+{
+  "data": {
+    "archived": false,
+    "color": "light-green",
+    "current_status": {
+      "author": {
+        "name": "Greg Sanchez"
+      },
+      "color": "green",
+      "created_by": {
+        "name": "Greg Sanchez"
+      },
+      "html_text": "<body>The project <strong>is</strong> moving forward according to plan...</body>",
+      "text": "The project is moving forward according to plan...",
+      "title": "Status Update - Jun 15"
+    },
+    "default_view": "calendar",
+    "due_date": "2019-09-15",
+    "due_on": "2019-09-15",
+    "html_notes": "<body>These are things we need to purchase.</body>",
+    "name": "Bruce Wayne",
+    "notes": "And Nothing Else Matters",
+    "public": true
+  }
+}
