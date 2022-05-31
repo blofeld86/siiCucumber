@@ -29,9 +29,8 @@ public class ReqBuild {
     private static Response response;
     private static ResponseSpecBuilder resSpecBld = new ResponseSpecBuilder();
     private static RequestSpecBuilder reqSpecBld = new RequestSpecBuilder();
-
-
     private static JsonPropertiesModel jpm = JsonPropertiesReader.readModel();
+
 
     public static RequestSpecification prepareDataToCreateProject() {
         RestAssured.filters(new RequestLoggingFilter(), new ResponseLoggingFilter());
