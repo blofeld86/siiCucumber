@@ -1,4 +1,4 @@
-Feature: Asana Test 2
+Feature: Asana Test
 
   @sanity
   Scenario:  Creating a new Asana project
